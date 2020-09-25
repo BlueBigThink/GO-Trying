@@ -63,8 +63,7 @@ PUT api/books/{id}
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+BlueBigThink
 
 ### Version
 
